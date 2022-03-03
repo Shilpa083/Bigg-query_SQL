@@ -25,6 +25,8 @@ Q4) What is the mean fare for the trips that are between 600 seconds and 3600 se
 ![image](https://user-images.githubusercontent.com/100786231/156573675-0b910a42-7558-4f62-bee4-27cb04bdcc39.png)
 
 Q5) How many false  trips are there? 
+
+
 That is, trips  constituting zero seconds but trip duration and fare is not equal to zero 
 
 ![image](https://user-images.githubusercontent.com/100786231/156585722-66e77423-aeda-4a70-957b-882179f971d3.png)
