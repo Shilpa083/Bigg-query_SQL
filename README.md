@@ -16,3 +16,6 @@ column chart representing the above result:
 
 ![image](https://user-images.githubusercontent.com/100786231/156556473-c7b47509-376f-4f79-b810-6f235c87ef4f.png)
 
+Q3) What is the unique number of taxi companies of Chicago taxies?
+
+![image](https://user-images.githubusercontent.com/100786231/156560039-5b5047d8-194c-43df-af7e-62cb6da71bf1.png)
