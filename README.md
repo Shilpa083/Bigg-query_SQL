@@ -7,3 +7,12 @@ Q1) What is the frequency of different types of payments In Chicago?
 Piechart representing the above result:
 
 ![image](https://user-images.githubusercontent.com/100786231/156534985-fdef05f2-a124-4d73-bda5-06a27c3eb1cb.png)
+
+Q2) From which Taxi Company maximum number of chicago taxis are there?
+
+![image](https://user-images.githubusercontent.com/100786231/156556039-820c1a35-bb25-44c9-bcd0-1dadb7285d13.png)
+
+column chart representing the above result:
+
+![image](https://user-images.githubusercontent.com/100786231/156556473-c7b47509-376f-4f79-b810-6f235c87ef4f.png)
+
