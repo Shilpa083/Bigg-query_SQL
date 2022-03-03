@@ -19,3 +19,8 @@ column chart representing the above result:
 Q3) What is the unique number of taxi companies of Chicago taxies?
 
 ![image](https://user-images.githubusercontent.com/100786231/156560039-5b5047d8-194c-43df-af7e-62cb6da71bf1.png)
+
+Q4) What is the mean fare for the trips that are between 600 seconds and 3600 seconds?
+
+![image](https://user-images.githubusercontent.com/100786231/156573675-0b910a42-7558-4f62-bee4-27cb04bdcc39.png)
+
