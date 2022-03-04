@@ -31,6 +31,11 @@ That is, trips  constituting zero seconds but trip duration and fare is not equa
 
 ![image](https://user-images.githubusercontent.com/100786231/156585722-66e77423-aeda-4a70-957b-882179f971d3.png)
 
+Q6) What is the  maximum amount of fare received by a particular individual taxi driver (Top 10)?
+
+![image](https://user-images.githubusercontent.com/100786231/156717253-ac56009b-99b4-40f9-82f4-ab57d7444976.png)
+
+
 
 
 
