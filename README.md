@@ -32,3 +32,5 @@ That is, trips  constituting zero seconds but trip duration and fare is not equa
 ![image](https://user-images.githubusercontent.com/100786231/156585722-66e77423-aeda-4a70-957b-882179f971d3.png)
 
 
+
+
