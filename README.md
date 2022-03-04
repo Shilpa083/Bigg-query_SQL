@@ -39,6 +39,11 @@ Q7) What is the average time taken for different trips corresponding to a partic
 
 ![image](https://user-images.githubusercontent.com/100786231/156754477-9a58797a-5b92-44ea-bb76-68a357d008f8.png)
 
+ Q8) What is the number of lower middle income families in South Asia region ?
+ 
+ ![image](https://user-images.githubusercontent.com/100786231/156771911-da61818d-63c9-4891-aacd-f07962d72e79.png)
+
+
 
 
 
