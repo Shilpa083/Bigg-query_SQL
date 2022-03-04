@@ -35,6 +35,12 @@ Q6) What is the  maximum amount of fare received by a particular individual taxi
 
 ![image](https://user-images.githubusercontent.com/100786231/156717253-ac56009b-99b4-40f9-82f4-ab57d7444976.png)
 
+Q7) What is the average time taken for different trips corresponding to a particular distance , where distance is not equal to zero?
+
+![image](https://user-images.githubusercontent.com/100786231/156754477-9a58797a-5b92-44ea-bb76-68a357d008f8.png)
+
+
+
 
 
 
