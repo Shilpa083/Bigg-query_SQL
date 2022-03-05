@@ -1,8 +1,10 @@
---Q8) What is the number of lower middle income families in South Asia region ?
+--Q8) Types of useres planted how many trees in Cherry st ?
 
-SELECT region,count(income_group) as count_ig
-FROM `bigquery-public-data.world_bank_intl_debt.international_debt` AS T1
-LEFT JOIN `bigquery-public-data.world_bank_intl_debt.country_summary` AS T2 ON T1.country_code=T2.country_code 
-where region= 'South Asia' and income_group="Lower middle income"
+SELECT bb.user_type,count(aa.street) as Total_tree
+FROM `bigquery-public-data.new_york.tree_census_1995` as aa 
+JOIN `bigquery-public-data.new_york.tree_census_2015` as bb  
+ON aa.recordid=bb.tree_id
+where aa.street = "CHERRY ST"
 group by 1
-order by 2 desc 
+order by 2 
+
