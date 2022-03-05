@@ -39,9 +39,14 @@ Q7) What is the average time taken for different trips corresponding to a partic
 
 ![image](https://user-images.githubusercontent.com/100786231/156754477-9a58797a-5b92-44ea-bb76-68a357d008f8.png)
 
- Q8) What is the number of lower middle income families in South Asia region ?
+ Q8) Types of useres planted how many trees in Cherry st ?
  
- ![image](https://user-images.githubusercontent.com/100786231/156771911-da61818d-63c9-4891-aacd-f07962d72e79.png)
+ ![image](https://user-images.githubusercontent.com/100786231/156873537-c09dc42b-0833-4ea9-9d0c-208f89e8d53e.png)
+ 
+ Pie chart of this results 
+ 
+ ![image](https://user-images.githubusercontent.com/100786231/156873576-c72995b0-fee1-44b5-89d6-e8c2985e4180.png)
+
 
 
 
