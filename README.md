@@ -48,7 +48,9 @@ Q7) What is the average time taken for different trips corresponding to a partic
  ![image](https://user-images.githubusercontent.com/100786231/156873576-c72995b0-fee1-44b5-89d6-e8c2985e4180.png)
 
 
+Q9) Which residential counties have medicaid as the source of payment?
 
+![image](https://user-images.githubusercontent.com/100786231/156885572-7b10c1e0-7d4b-4ac0-974c-e4a99fc83b21.png)
 
 
 
