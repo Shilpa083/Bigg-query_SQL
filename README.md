@@ -53,6 +53,9 @@ Q9) Which residential counties have medicaid as the source of payment?
 ![image](https://user-images.githubusercontent.com/100786231/156885572-7b10c1e0-7d4b-4ac0-974c-e4a99fc83b21.png)
 
 
+Q.10) Which Country has collaborated with UNESCO for measuring the literacy rate?
+
+![image](https://user-images.githubusercontent.com/100786231/156888156-4d192f3a-8ce0-4bef-aa24-b3e6f73d75d7.png)
 
 
 
